@@ -29,6 +29,7 @@ Taking a look at LeBron James' playoff basic and advanced statistics across diff
 ![4](https://user-images.githubusercontent.com/91514179/170055140-a73c850e-111a-4e23-a18f-6687cd9ed6b0.PNG)
 
 - A win is more likely by 1.76 times when TS% is greater than 51.9% and more likely by 3.65 times when eFG% is greater than 34.4%.
+
 ![6](https://user-images.githubusercontent.com/91514179/170217124-9b333105-6b71-4605-b8af-1e53073b7596.PNG)
 ![5](https://user-images.githubusercontent.com/91514179/170217129-eeabe37d-b01f-41b8-989d-2fa2de91a436.PNG)
 
