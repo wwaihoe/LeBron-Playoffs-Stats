@@ -82,6 +82,16 @@ Taking a look at LeBron James' playoff basic and advanced statistics across diff
 ![2](https://user-images.githubusercontent.com/91514179/170206078-358d3b45-3ff3-4552-8389-79fe77a0b2e4.PNG)
 
 
+## Clutchness
+
+**In game sevens**
+- Highest win percentage
+- Highest average usage rate
+- Best average gamescore, defensive rating and 2nd best defensive rating
+
+![2](https://user-images.githubusercontent.com/91514179/170253795-260adc6e-f50f-4e0c-8ec5-2a536e7eb415.PNG)
+
+
 ### Key Influencers of Win/Loss
 
 ![1](https://user-images.githubusercontent.com/91514179/170192095-e84d134a-127b-4d2a-926f-33287bc0bbd8.PNG)
