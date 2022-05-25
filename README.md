@@ -33,6 +33,6 @@ Taking a look at LeBron James' playoff basic and advanced statistics across diff
 
 ![10](https://user-images.githubusercontent.com/91514179/170062458-f74d8f28-8031-4b24-80df-50410e1fb9bb.PNG)
 
-### Key Influencers
+### Key Influencers of Wins
 ![1](https://user-images.githubusercontent.com/91514179/170192095-e84d134a-127b-4d2a-926f-33287bc0bbd8.PNG)
 
