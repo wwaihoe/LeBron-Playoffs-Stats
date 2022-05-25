@@ -47,6 +47,13 @@ Taking a look at LeBron James' playoff basic and advanced statistics across diff
 ![6](https://user-images.githubusercontent.com/91514179/170217124-9b333105-6b71-4605-b8af-1e53073b7596.PNG)
 ![5](https://user-images.githubusercontent.com/91514179/170217129-eeabe37d-b01f-41b8-989d-2fa2de91a436.PNG)
 
+- LeBron's scoring averages against teams:
+  - Worst: Mavericks (17.8PPG & 0.54TS%)
+  - Highest: Magic (38.5PPG)
+  - Most efficient: Trailblazers (0.70TS%)
+
+![1](https://user-images.githubusercontent.com/91514179/170253020-5add3ceb-7e1d-46e9-b15e-a35f8c65afe5.PNG)
+
 
 ### Advanced Stats
 
@@ -73,6 +80,16 @@ Taking a look at LeBron James' playoff basic and advanced statistics across diff
 - Best record is against Hawks (12-0)'.
 
 ![2](https://user-images.githubusercontent.com/91514179/170206078-358d3b45-3ff3-4552-8389-79fe77a0b2e4.PNG)
+
+
+### Clutchness
+
+**In game sevens**
+- Highest win percentage
+- Highest average usage rate
+- Best average gamescore, defensive rating and 2nd best defensive rating
+
+![2](https://user-images.githubusercontent.com/91514179/170253795-260adc6e-f50f-4e0c-8ec5-2a536e7eb415.PNG)
 
 
 ### Key Influencers of Win/Loss
