@@ -82,7 +82,7 @@ Taking a look at LeBron James' playoff basic and advanced statistics across diff
 ![2](https://user-images.githubusercontent.com/91514179/170206078-358d3b45-3ff3-4552-8389-79fe77a0b2e4.PNG)
 
 
-## Clutchness
+### Clutchness
 
 **In game sevens**
 - Highest win percentage
