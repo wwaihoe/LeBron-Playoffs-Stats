@@ -1,15 +1,12 @@
 # LeBron-Playoffs-Stats
 Taking a look at LeBron James' playoff basic and advanced statistics across different stints in his career and how they are related with the outcome of the game. 
 
-
-### Insights
-
-#### Counting Stats
+### Counting Stats
 - Generally more points are scored in wins compared to losses. However, rebounds and assists are similar in wins and losses.
 - Scoring was highest on the cavaliers from 2015-18 but most consistent on the heat and lakers.
 - Rebounding increased significantly after leaving the heat for the cavaliers in 2015 (Might be due to the shift towards small ball lineups and higher pace in NBA).
 
-#### Usage/Playtime
+### Usage/Playtime
 - Minutes played per game in the playoffs have decreased steadily over his career from around 43 min on the cavaliers (06-10) to 36 min on the lakers.
 
 ![1](https://user-images.githubusercontent.com/91514179/170053350-267bdadd-094c-4a34-9851-65258c039b47.PNG)
@@ -18,7 +15,7 @@ Taking a look at LeBron James' playoff basic and advanced statistics across diff
 
 ![2](https://user-images.githubusercontent.com/91514179/170053989-a22967bb-654b-4e64-aeaf-5a37814ffda7.PNG)
 
-#### Efficiency
+### Efficiency
 
 - There is an increasing trend in LeBron's true shooting percentage over time.
 
@@ -33,7 +30,7 @@ Taking a look at LeBron James' playoff basic and advanced statistics across diff
 ![6](https://user-images.githubusercontent.com/91514179/170217124-9b333105-6b71-4605-b8af-1e53073b7596.PNG)
 ![5](https://user-images.githubusercontent.com/91514179/170217129-eeabe37d-b01f-41b8-989d-2fa2de91a436.PNG)
 
-#### Advanced Stats
+### Advanced Stats
 
 - LeBron's offensive rating has increased while defensive rating has decreased over his career.
 
